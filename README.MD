@@ -1,4 +1,6 @@
-Author : Adewumi Sunkanmi Ayodeji React and Nodejs developer
+SunkyXender<br>
+Version:1.0.0<br>
+Author : Adewumi Sunkanmi Ayodeji a React and Nodejs developer<br>
 Licence: This app is open source therefore any contribution is acceptable
 
 
