@@ -3,9 +3,9 @@ Licence: This app is open source therefore any contribution is acceptable
 
 
 
-# This project so that transfer of files can be made easy
+# This project was created so that you can transfer files to your computer
 
-## Available Scripts
+## Scripts
 ### To start the client Server 
 In the client directory, you can run:
 
